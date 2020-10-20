@@ -42,6 +42,9 @@
 ### Servidor (Neste caso github)
 - Remote Repository
 
-conflitos de merge ???
+### conflitos de merge ?
+
+- quando ocorre utilizar 
+git pull origin master
 
 
