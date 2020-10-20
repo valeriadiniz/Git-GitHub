@@ -42,3 +42,6 @@
 ### Servidor (Neste caso github)
 - Remote Repository
 
+conflitos de merge ???
+
+
