@@ -44,6 +44,9 @@
 
 ### conflitos de merge ?
 
+o que é um conflito?
+um conflito ocorre quando dois programadores editam a mesma linha de código.
+
 - quando ocorre utilizar 
 git pull origin master
 
