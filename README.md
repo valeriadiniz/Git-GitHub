@@ -1,4 +1,6 @@
 
+<img src="/images/certificado.jpg" width="600px" align="center">
+
 # Introdução ao Git e ao GitHub
 
 - 1-controle de versão 
